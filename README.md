@@ -1,6 +1,8 @@
 # Mentorship Guide
 
-Visit https://mentorship.gitbook.io/guide/
+Read the guide: [https://mentorship.gitbook.io/guide/](https://mentorship.gitbook.io/guide/)
+
+Contribute: [https://github.com/palante/mentorship-guide](https://github.com/palante/mentorship-guide)
 
 [![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
