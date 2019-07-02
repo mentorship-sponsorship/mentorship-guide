@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Mentorship Guide](README.md)
 
 ## mentors
 
