@@ -1,4 +1,8 @@
-# Welcome
+# Mentorship Guide
+
+Visit https://mentorship.gitbook.io/guide/
+
+[![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## About
 
@@ -7,8 +11,6 @@ Mentorship Guide is a resource focused on making mentorship accessible to all.
 ## Mission
 
 To provide mentors and mentees with strategies, tools, resources, advice, and community support.
-
-
 
 ## Why
 
