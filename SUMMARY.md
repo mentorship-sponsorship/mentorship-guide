@@ -23,15 +23,15 @@
 
 * [Coming soon ...](mentees/mentees-coming-soon.md)
 
-## Important
-
-* [Contributing](important/contributing.md)
-* [Code of Conduct](important/code-of-conduct.md)
-
 ## Resources
 
 * [Mentorship programs](resources/mentorship-programs.md)
 * [Additional resources](resources/additional-resources/README.md)
   * [Videos](resources/additional-resources/videos.md)
   * [Articles](resources/additional-resources/articles.md)
+
+## Important
+
+* [Contributing](important/contributing.md)
+* [Code of Conduct](important/code-of-conduct.md)
 
