@@ -18,10 +18,6 @@
 * [Advice](mentors/advice/README.md)
   * [From other mentors](mentors/advice/advice-from-other-mentors.md)
   * [From mentees](mentors/advice/advice-from-mentees.md)
-* [Mentorship programs](mentors/mentorship-programs.md)
-* [Additional resources](mentors/additional-resources/README.md)
-  * [Videos](mentors/additional-resources/videos.md)
-  * [Articles](mentors/additional-resources/articles.md)
 
 ## mentees
 
@@ -31,4 +27,11 @@
 
 * [Contributing](important/contributing.md)
 * [Code of Conduct](important/code-of-conduct.md)
+
+## Resources
+
+* [Mentorship programs](resources/mentorship-programs.md)
+* [Additional resources](resources/additional-resources/README.md)
+  * [Videos](resources/additional-resources/videos.md)
+  * [Articles](resources/additional-resources/articles.md)
 

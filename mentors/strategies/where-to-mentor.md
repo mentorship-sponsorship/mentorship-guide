@@ -47,7 +47,7 @@ For those with large followings, there are ways to manage with filters, email al
 
 ## Organizations and initiatives to get in involved with
 
-See [Mentorship Programs](../mentorship-programs.md) for more details
+See [Mentorship Programs](../../resources/mentorship-programs.md) for more details
 
 ## Action steps
 

@@ -24,9 +24,9 @@ Add advice for mentors and mentees.
 
 Add new resources, such as videos, articles, links to other mentorship programs, and more.
 
-* [Mentorship programs](../mentors/mentorship-programs.md)
-* [Videos](../mentors/additional-resources/videos.md)
-* [Articles](../mentors/additional-resources/articles.md)
+* [Mentorship programs](../resources/mentorship-programs.md)
+* [Videos](../resources/additional-resources/videos.md)
+* [Articles](../resources/additional-resources/articles.md)
 
 ### Documentation
 
