@@ -1,3 +1,7 @@
+---
+description: 'Mentorship programs, initiatives, platforms, and more.'
+---
+
 # Mentorship programs
 
 ### CommunityBridge

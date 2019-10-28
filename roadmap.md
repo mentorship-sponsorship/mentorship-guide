@@ -1,6 +1,15 @@
 # Roadmap \(coming soon\)
 
-## ⁉ Submit ideas, feedback, questions 
+## 🚀 Coming up
+
+> Currently, a work in progress. Below is small glimpse. We're figuring out where to feature roadmap so that it would would enable project tracking, discussions, and collaboration.
+
+* [ ] Complete initial Mentee Sections
+* [ ] Enable multiple language support
+* [ ] Section on "What are the overarching goals?"
+* [ ] And more ... 
+
+## ⁉ **Submit ideas, feedback, questions** 
 
 [External link form](https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp_url&entry.1298200943=Roadmap)
 

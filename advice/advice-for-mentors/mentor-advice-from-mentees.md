@@ -1,6 +1,6 @@
 # Mentor advice from mentees
 
-## Advice from mentees
+## 💡 Advice from mentees
 
 > Please add more :\)
 
