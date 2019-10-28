@@ -6,6 +6,7 @@
 
 * [ ] Complete initial Mentee Sections
 * [ ] Enable multiple language support
+* [ ] Account for cultural/regional differences
 * [ ] Section on "What are the overarching goals?"
 * [ ] And more ... 
 
