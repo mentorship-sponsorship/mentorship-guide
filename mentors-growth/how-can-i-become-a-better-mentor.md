@@ -3,7 +3,7 @@
 {% hint style="info" %}
 Coming soon ... 
 
-Do you have ideas, content, feedback, and questions? Fill out the form below!
+Do you have ideas, content, feedback, and/or questions? Fill out the form below!
 {% endhint %}
 
 ## ⁉ Submit ideas, feedback, questions

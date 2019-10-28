@@ -1,10 +1,13 @@
+---
+description: >-
+  You can mentor on anything that can be shared. Share knowledge, experiences,
+  general advice, specific domain advice, encouragement, questions, connections,
+  and more.
+---
+
 # What to mentor on
 
-## What to mentor on
-
-You can mentor on anything that can be shared.
-
-## Knowledge
+## 🧠 Knowledge
 
 * share what you know
 * what you think others should know
@@ -12,7 +15,7 @@ You can mentor on anything that can be shared.
 * things that most do not know
 * skills
 
-## Experiences
+## 🚵♀ Experiences
 
 * the crucial things that cannot be found in books/online
 * stories
@@ -22,7 +25,7 @@ You can mentor on anything that can be shared.
 
 One of my favorite things I’ve done is speak at organizations like Girls Who Code. I shared how in my journey to tech, there were times when I asked myself: do I belong, am I good enough, am I passionate enough. Hearing how some felt the same way too and feeling encouraged from my stories was motivating.
 
-## General advice
+## 🗣 General advice
 
 Talk about the broader topics, such as:
 
@@ -37,7 +40,7 @@ Talk about the broader topics, such as:
 * leveling up in a role
 * negotiation
 
-## Specific domain advice
+## 🛠 Specific domain advice
 
 * specific frameworks/concepts
 * languages, tools, testing, architecture, and more
@@ -49,7 +52,7 @@ Talk about the broader topics, such as:
 
 I personally enjoy mentoring those entering/switching to the tech industry. As well as applying psychology in our daily day. On the other hand, I have a friend who can talk for hours on anything related to serverless. Another friend makes herself available to new joiners when they’re learning her team's codebase.
 
-## Encouragement
+## 🤗 Encouragement
 
 * solidarity
 * accountability
@@ -67,7 +70,7 @@ I was helping someone apply to jobs. She felt apprehensive because she thought h
 
 Really, I was just actively listening, providing encouragement, and helping build her confidence. She did all the hard stuff. She’s now happily employed.
 
-## Questions
+## ❔ Questions
 
 You do not have to have all the answers. Questions can be powerful.
 
@@ -75,7 +78,7 @@ You do not have to have all the answers. Questions can be powerful.
 * questions that challenge false assumptions
 * question that inspire further reflection, introspection, and action
 
-## Connections
+## 🤝 Connections
 
 Connections can be people and resources.
 
@@ -90,9 +93,9 @@ The intention of trying to help is important and valuable as well. I was asked i
 
 Often, when I meet people who do not know each other, but I think they should, I ask each if it's okay to connect them. Wonderful, now you've connected two worlds!
 
-## Action steps
+## ☑ Action steps
 
-Coming soon ...
+* [ ] Coming soon ...
 
 ## ⁉ Submit ideas, feedback, questions
 

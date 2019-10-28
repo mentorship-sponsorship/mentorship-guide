@@ -42,11 +42,11 @@ Help make our documentation understandable, easy-to-follow, and informative.
 
 ### 🖋 Spelling and grammar
 
-Noticed a spelling or grammar mistake, please submit a Pull Request with a change.
+Noticed a spelling or grammar mistake, please submit the form, open an issue or submit a Pull Request.
 
 ### 🐛 Bugs
 
-If you found a bug, please open an issue or submit a Pull Request.
+If you found a bug, please submit the form, open an issue or submit a Pull Request.
 
 ### 💻 Features
 
