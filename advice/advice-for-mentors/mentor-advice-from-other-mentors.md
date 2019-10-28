@@ -1,4 +1,4 @@
-# From other mentors
+# Mentor advice from other mentors
 
 ## Advice from other mentors
 
@@ -15,4 +15,12 @@ Don't feel like you have to solve everything or that all the pressure is on you.
 **It does not have to be forever**
 
 As schedules and priorities change, work with your mentee when you both need to mutually part ways. Perhaps you both already accomplished a goal. Or things are busier now. That's okay! Similarly, parting ways does not mean you are strangers. Stay in touch!
+
+## ⁉ Submit ideas, feedback, questions
+
+[External link form](https://docs.google.com/forms/d/e/1FAIpQLScihCg2b_OR-vzyD854dX0cMOAkvSEXGYDyTqaxeYzxwvCudg/viewform?usp=pp_url&entry.583326245=Advice+for+MENTORS+from+other+mentors)
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScihCg2b\_OR-vzyD854dX0cMOAkvSEXGYDyTqaxeYzxwvCudg/viewform?usp=pp\_url&entry.583326245=Advice+for+MENTORS+from+other+mentors" %}
+
+
 

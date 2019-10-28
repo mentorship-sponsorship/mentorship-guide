@@ -1,7 +1,3 @@
----
-description: Mentorship can take many forms and styles. Each is equally valuable!
----
-
 # Forms of mentorship
 
 ## Forms of mentorship
@@ -39,13 +35,13 @@ What type of questions do you like to be asked?
 
 You welcome questions on broad topics. You are happy to talk about careers, advancing in roles, performance, relationships, and more.
 
-See [General Advice](../strategies/what-to-mentor-on.md#general-advice) for more examples.
+See [General Advice](what-to-mentor-on.md#general-advice) for more examples.
 
 ### Narrow
 
 You welcome questions on narrower topics. Such as questions specific to a programming language, product/service, a design philosophy, on a framework, etc.
 
-See [Specialized Advice](../strategies/what-to-mentor-on.md#specific-domain-advice) for more examples.
+See [Specialized Advice](what-to-mentor-on.md#specific-domain-advice) for more examples.
 
 ## Preferred question specificity
 
@@ -171,4 +167,12 @@ Mentorship organized by peers, helping one another accomplish respective goals. 
 ### One-off
 
 Mentorship that occurs once and that is all. A question answered, a suggestion given. You may not think you mentored, but you did. This is equally valuable as repeated ones!
+
+## ⁉ Submit ideas, feedback, questions
+
+[External link form](https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp_url&entry.1298200943=How+do+I+mentor?)
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5\_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp\_url&entry.1298200943=How+do+I+mentor?" %}
+
+
 

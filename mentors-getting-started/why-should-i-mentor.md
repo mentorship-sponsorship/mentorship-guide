@@ -1,8 +1,12 @@
-# Mentorship is important
+---
+description: >-
+  Mentorship is important. It helps others, it helps you, and it helps the
+  broader community.
+---
 
-## Why is mentorship important?
+# Why should I mentor?
 
-## It helps others
+## 👥 It helps others
 
 The help you give has valuable and lasting benefits.
 
@@ -25,7 +29,7 @@ Here are a few different ways your work has an impact, such as helping someone i
 
 > “To the world you may be one person, but to one person, you may be the world” \(Dr Seuss\)
 
-## It helps you
+## 👤 It helps you
 
 Paying it forward benefits you as well.
 
@@ -38,7 +42,7 @@ Paying it forward benefits you as well.
 
 Hearing other people's stories and perspectives, makes your own that much more richer, dynamic, and inclusive. There are valuable feelings and experiences that money cannot buy, but that only mentorship can provide.
 
-## It helps the broader community
+## 💗 It helps the broader community
 
 > "A candle loses nothing by lighting another candle" \(James Keller\)
 
@@ -48,7 +52,15 @@ We are raising the waters so that we're all uplifted. It's a ripple effect. We h
 
 Before you know it, it's like a boomerang of help that returns to you.
 
-## Action steps
+## ☑ Action steps
 
-Coming soon ...
+* [ ] Coming soon ...
+
+## ⁉ Submit ideas, feedback, questions
+
+[External form link](https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp_url&entry.1298200943=Why+should+I+mentor?)
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5\_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp\_url&entry.1298200943=Why+should+I+mentor?" caption="Submit ideas, feedback, questions" %}
+
+
 

@@ -1,27 +1,45 @@
 # Table of contents
 
 * [Mentorship Guide](README.md)
+* [Start here](start-here/README.md)
+  * [Mentors overview](start-here/resources-for-mentors.md)
+  * [Mentees overview](start-here/mentees-overview.md)
+* [Roadmap \(coming soon\)](roadmap.md)
 
-## mentors
+## Mentors: Getting started
 
-* [Can I be a mentor? Yes!](mentors/untitled.md)
-* [Why mentor?](mentors/why-mentor-1/README.md)
-  * [Mentorship is important](mentors/why-mentor-1/mentorship-is-important.md)
-  * [Why we mentor?](mentors/why-mentor-1/why-we-mentor.md)
-* [Different types of mentorship](mentors/different-types-of-mentorship/README.md)
-  * [Forms of mentorship](mentors/different-types-of-mentorship/forms-of-mentorship.md)
-  * [Styles of mentorship](mentors/different-types-of-mentorship/styles-of-mentorship.md)
-* [Strategies](mentors/strategies/README.md)
-  * [What to mentor on](mentors/strategies/what-to-mentor-on.md)
-  * [Where to mentor](mentors/strategies/where-to-mentor.md)
-  * [When to mentor](mentors/strategies/when-to-mentor.md)
-* [Advice](mentors/advice/README.md)
-  * [From other mentors](mentors/advice/advice-from-other-mentors.md)
-  * [From mentees](mentors/advice/advice-from-mentees.md)
+* [Why should I mentor?](mentors-getting-started/why-should-i-mentor.md)
+* [Why do others mentor?](mentors-getting-started/why-do-others-mentor.md)
+* [How can I become a mentor? Am I a mentoring already?](mentors-getting-started/how-can-i-become-a-mentor.md)
 
-## mentees
+## Mentors: Strategies <a id="mentors-currently"></a>
 
-* [Coming soon ...](mentees/mentees-coming-soon.md)
+* [What's my mentoring style?](mentors-currently/whats-my-mentoring-style.md)
+* [How do I mentor?](mentors-currently/how-do-i-mentor-someone/README.md)
+  * [Forms of mentorship](mentors-currently/how-do-i-mentor-someone/forms-of-mentorship.md)
+  * [What to mentor on](mentors-currently/how-do-i-mentor-someone/what-to-mentor-on.md)
+* [Where/when can I mentor?](mentors-currently/where-when-can-i-mentor.md)
+
+## Mentors: Growth \(coming soon\) <a id="mentors-growth"></a>
+
+* [Should I take a break from mentoring?](mentors-growth/should-i-take-a-break-from-mentoring.md)
+* [How can I become a better mentor?](mentors-growth/how-can-i-become-a-better-mentor.md)
+
+## mentees \(coming soon\) <a id="mentees"></a>
+
+* [Where do I find mentors?](mentees/where-do-i-find-mentors.md)
+* [What do I ask/talk about?](mentees/what-do-i-ask-talk-about.md)
+* [How do I respect their time?](mentees/how-do-i-respect-their-time.md)
+* [How do I become a better mentee?](mentees/how-do-i-become-a-better-mentee.md)
+
+## Advice
+
+* [Advice for mentors](advice/advice-for-mentors/README.md)
+  * [Mentor advice from other mentors](advice/advice-for-mentors/mentor-advice-from-other-mentors.md)
+  * [Mentor advice from mentees](advice/advice-for-mentors/mentor-advice-from-mentees.md)
+* [Advice for mentees](advice/advice-for-mentees/README.md)
+  * [Mentee advice from other mentees](advice/advice-for-mentees/mentee-advice-from-other-mentees.md)
+  * [Mentee advice from mentors](advice/advice-for-mentees/mentee-advice-from-mentors.md)
 
 ## Resources
 
@@ -29,6 +47,9 @@
 * [Additional resources](resources/additional-resources/README.md)
   * [Videos](resources/additional-resources/videos.md)
   * [Articles](resources/additional-resources/articles.md)
+* [Community support](resources/community-support/README.md)
+  * [Join our Spectrum community](https://spectrum.chat/mentorship)
+  * [Monthly online chat \(fun and insightful\)](resources/community-support/monthly-online-chat.md)
 
 ## Important
 
