@@ -4,7 +4,7 @@ description: >-
   In fact, you may be mentoring already.
 ---
 
-# How can I become a mentor? Am I a mentoring already?
+# How can I become a mentor? Am I mentoring already?
 
 ## 🤩 Everyone can mentor!
 

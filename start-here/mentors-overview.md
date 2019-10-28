@@ -14,7 +14,7 @@ description: 'Mentor FAQs on getting started, strategies, and growth.'
 
 {% page-ref page="../mentors-getting-started/why-do-others-mentor.md" %}
 
-### How can I become a mentor? Am I a mentoring already?
+### How can I become a mentor? Am I mentoring already?
 
 {% page-ref page="../mentors-getting-started/how-can-i-become-a-mentor.md" %}
 

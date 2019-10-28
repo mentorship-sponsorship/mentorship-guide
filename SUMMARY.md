@@ -10,7 +10,7 @@
 
 * [Why should I mentor?](mentors-getting-started/why-should-i-mentor.md)
 * [Why do others mentor?](mentors-getting-started/why-do-others-mentor.md)
-* [How can I become a mentor? Am I a mentoring already?](mentors-getting-started/how-can-i-become-a-mentor.md)
+* [How can I become a mentor? Am I mentoring already?](mentors-getting-started/how-can-i-become-a-mentor.md)
 
 ## Mentors: Strategies <a id="mentors-currently"></a>
 
