@@ -2,7 +2,7 @@
 
 * [Mentorship Guide](README.md)
 * [Start here](start-here/README.md)
-  * [Mentors overview](start-here/resources-for-mentors.md)
+  * [Mentors overview](start-here/mentors-overview.md)
   * [Mentees overview](start-here/mentees-overview.md)
 * [Roadmap \(coming soon\)](roadmap.md)
 
