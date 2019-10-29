@@ -6,6 +6,21 @@ description: >-
 
 # Why should I mentor?
 
+## 👤 It helps you
+
+Paying it forward benefits you as well.
+
+* learn more about yourself
+* expand your world view
+* make a new friend, ally, supporter
+* feel good about giving back
+* find knowledge gaps in your own thinking
+* learn something new
+
+Hearing other people's stories and perspectives, makes your own that much more richer, dynamic, and inclusive. 
+
+There are valuable feelings and experiences that money cannot buy, but that only mentorship can provide.
+
 ## 👥 It helps others
 
 The help you give has valuable and lasting benefits.
@@ -28,19 +43,6 @@ Here are a few different ways your work has an impact, such as helping someone i
 * and more!
 
 > “To the world you may be one person, but to one person, you may be the world” \(Dr Seuss\)
-
-## 👤 It helps you
-
-Paying it forward benefits you as well.
-
-* learn more about yourself
-* expand your world view
-* make a new friend, ally, supporter
-* feel good about giving back
-* find knowledge gaps in your own thinking
-* learn something new
-
-Hearing other people's stories and perspectives, makes your own that much more richer, dynamic, and inclusive. There are valuable feelings and experiences that money cannot buy, but that only mentorship can provide.
 
 ## 💗 It helps the broader community
 

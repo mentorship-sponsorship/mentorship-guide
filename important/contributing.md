@@ -6,7 +6,7 @@ description: 'All contributions count, thank you for your help!'
 
 ## Contributing
 
-This guide is developed by the community for the community.
+This guide is developed by the community for the community. The **quickest way to contribute** is by submitting the form below!
 
 We're also inspired by [All Contributors](https://allcontributors.org/docs/en/emoji-key) for all the ways you can contribute, in addition to the list below.
 
