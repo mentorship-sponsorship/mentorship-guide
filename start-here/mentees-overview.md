@@ -5,7 +5,9 @@ description: 'Mentee FAQs on getting started, strategies, and growth.'
 # Mentees overview
 
 {% hint style="info" %}
-Coming soon ... 
+Coming soon ...
+
+Please check out the [Mentors section](mentors-overview.md) in the meantime!
 
 Do you have ideas, content, feedback, and questions? Fill out the form below!
 {% endhint %}
