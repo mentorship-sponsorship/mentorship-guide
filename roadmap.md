@@ -2,12 +2,12 @@
 
 ## 🚀 Coming up
 
-> Currently, a work in progress. Below is small glimpse. We're figuring out where to feature roadmap so that it would would enable project tracking, discussions, and collaboration.
+> Currently, a work in progress. Below is small glimpse. Will be ported to Git Issues to enable project tracking, discussions, and collaboration.
 
 * [ ] Complete initial Mentee Sections
 * [ ] Enable multiple language support
 * [ ] Account for cultural/regional differences
-* [ ] Section on "What are the overarching goals?"
+* [ ] New section on "What are the overarching goals?"
 * [ ] And more ... 
 
 ## ⁉ **Submit ideas, feedback, questions** 
