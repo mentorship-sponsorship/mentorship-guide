@@ -10,7 +10,7 @@ description: Explore the different mentoring styles.
 * Help explain and clarify material. 
 * Share knowledge and experiences.
 
-## 📣 Cheerleader
+## 📣 Encourager
 
 * Provide encouragement. 
 * Remind them of their progress, accomplishments 
