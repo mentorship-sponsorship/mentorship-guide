@@ -43,7 +43,7 @@ This is a crowdsourced list of _paid_ mentoring programs.
 
 We _do not_ have a direct/formal affiliation and _do not_ receive any affiliate commission.
 
-Thanks in advance for the programs that offer subsidized pricing and purchasing power parity!
+Thanks in advance for the programs that are able to offer purchasing power parity.
 {% endhint %}
 
 ### MentorPass
