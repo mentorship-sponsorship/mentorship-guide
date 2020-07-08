@@ -12,6 +12,8 @@ It's great having you here! There's plenty of information in this guide \(and it
 
 #### 2 - Explore the sections on the left-hand pane.
 
+**3 - Not seeing your question?** [**Let us know!**](../important/contributing.md)\*\*\*\*
+
 ## 🌱 Mentors: Getting started
 
 ### [Why should I mentor?](../mentors-getting-started/why-should-i-mentor.md)
