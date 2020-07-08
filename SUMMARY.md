@@ -32,7 +32,7 @@
 * [How do I respect their time?](mentees/how-do-i-respect-their-time.md)
 * [How do I become a better mentee?](mentees/how-do-i-become-a-better-mentee.md)
 
-## Advice
+## Advice from peers <a id="advice"></a>
 
 * [Advice for mentors](advice/advice-for-mentors/README.md)
   * [Mentor advice from other mentors](advice/advice-for-mentors/mentor-advice-from-other-mentors.md)
@@ -53,6 +53,12 @@
 
 ## Important
 
-* [Contributing](important/contributing.md)
+* [How to contribute](important/contributing.md)
+* [Thank you + Contributors](important/thank-you.md)
 * [Code of Conduct](important/code-of-conduct.md)
+
+## Operations
+
+* [Español \(and other languages\)](operations/espanol-and-other-languages.md)
+* [Lessons learned](operations/lessons-learned.md)
 

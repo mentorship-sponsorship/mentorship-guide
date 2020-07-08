@@ -2,7 +2,7 @@
 description: 'All contributions count, thank you for your help!'
 ---
 
-# Contributing
+# How to contribute
 
 ## Contributing
 

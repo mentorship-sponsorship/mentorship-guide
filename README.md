@@ -34,6 +34,8 @@ This project adheres to the Contributor Covenant Code of Conduct. Please read an
 
 ## 👏 Thank you
 
+Together, we're stronger. Thank you for the help!
+
 ## 📄 License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
