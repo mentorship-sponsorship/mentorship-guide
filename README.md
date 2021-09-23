@@ -34,7 +34,7 @@ This project adheres to the Contributor Covenant Code of Conduct. Please read an
 
 ## 👏 Thank you
 
-Together, we're stronger. Thank you for the help!
+Together, we're stronger. Thank you for your contributions!
 
 ## 📄 License
 

@@ -1,5 +1,5 @@
 ---
-description: 'Together, we''re stronger. Thank you for your continuous help!'
+description: 'Together, we''re stronger. Thank you for contributing!'
 ---
 
 # Thank you + Contributors
@@ -13,6 +13,12 @@ description: 'Together, we''re stronger. Thank you for your continuous help!'
 > For the platform that powers this guide and making it accessible to open source projects
 
 {% embed url="https://www.gitbook.com/" %}
+
+### The Open Source Way 2.0
+
+> For collecting best practices on "initiating, nurturing, and growing, and maintain groups of passionate contributors"
+
+{% embed url="https://www.theopensourceway.org/the\_open\_source\_way-guidebook-2.0.html\#\_creating\_a\_culture\_of\_mentorship" %}
 
 ### Opensource.guide
 
@@ -37,6 +43,12 @@ description: 'Together, we''re stronger. Thank you for your continuous help!'
 > For connecting open source folks across the world to share ideas, learn and collaborate
 
 {% embed url="https://events.linuxfoundation.org/" %}
+
+#### Egghead.io, Robin Wieruch, Jason Lengstorf
+
+> For the [initial site template](https://github.com/eggheadio/gatsby-starter-egghead-blog) used in the main mentorship.guide page
+
+{% embed url="https://mentorship.guide" %}
 
 ## 🤗 Contributors
 
