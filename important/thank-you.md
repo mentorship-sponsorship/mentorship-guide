@@ -44,7 +44,7 @@ description: 'Together, we''re stronger. Thank you for contributing!'
 
 {% embed url="https://events.linuxfoundation.org/" %}
 
-#### Egghead.io, Robin Wieruch, Jason Lengstorf
+#### egghead.io, Robin Wieruch, Jason Lengstorf
 
 > For the [initial site template](https://github.com/eggheadio/gatsby-starter-egghead-blog) used in the main mentorship.guide page
 
