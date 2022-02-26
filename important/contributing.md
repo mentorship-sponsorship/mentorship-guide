@@ -4,7 +4,7 @@ description: All contributions count, thank you for your help!
 
 # How to contribute
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## Contributing
 

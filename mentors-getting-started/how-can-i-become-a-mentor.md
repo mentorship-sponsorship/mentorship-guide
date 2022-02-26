@@ -6,7 +6,7 @@ description: >-
 
 # How can I become a mentor? Am I mentoring already?
 
-👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
 
 ## :star\_struck: Everyone can mentor!
 

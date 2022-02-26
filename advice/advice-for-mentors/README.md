@@ -1,6 +1,6 @@
 # Advice for mentors
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## :last\_quarter\_moon\_with\_face: Advice for mentors
 

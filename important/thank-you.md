@@ -4,7 +4,7 @@ description: Together, we're stronger. Thank you for contributing!
 
 # Thank you + Contributors
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## Thanks
 

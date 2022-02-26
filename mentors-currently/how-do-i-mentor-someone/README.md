@@ -1,6 +1,6 @@
 # How do I mentor?
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## :sparkles: Different forms of mentorship
 

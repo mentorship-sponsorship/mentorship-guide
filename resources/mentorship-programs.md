@@ -4,7 +4,7 @@ description: Mentorship programs, initiatives, platforms, and more.
 
 # Mentorship programs
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 {% hint style="info" %}
 As this crowdsourced list grows we will update how it's organized. In the meantime, please contribute!

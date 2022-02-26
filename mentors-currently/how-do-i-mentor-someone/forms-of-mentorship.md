@@ -6,7 +6,7 @@ description: >-
 
 # Forms of mentorship
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## Forms of mentorship
 

@@ -4,7 +4,7 @@ description: Explore the different mentoring styles.
 
 # What's my mentoring style?
 
-👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
 
 ## :woman\_teacher: Educator
 

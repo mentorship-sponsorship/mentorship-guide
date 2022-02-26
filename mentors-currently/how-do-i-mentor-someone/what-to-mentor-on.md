@@ -7,7 +7,7 @@ description: >-
 
 # What to mentor on
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## :brain: Knowledge
 

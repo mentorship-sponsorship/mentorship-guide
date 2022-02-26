@@ -1,6 +1,6 @@
 # Español (and other languages)
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 :earth\_africa: Mentorship is a universal experience. We want to be also be inclusive of all kinds of experiences: cultural, regional, languages and more.
 

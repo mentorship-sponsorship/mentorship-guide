@@ -1,6 +1,6 @@
 # Advice for mentees
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## &#x20;:first\_quarter\_moon\_with\_face: Advice for mentees
 

@@ -1,6 +1,6 @@
 # Community support
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## ![](../../.gitbook/assets/mentorship-logo-with-white-background.png) Join our Spectrum community
 

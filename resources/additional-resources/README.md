@@ -4,7 +4,7 @@ description: Videos, articles, and more on the topic of mentorship.
 
 # Additional resources
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## :movie\_camera: Videos
 
