@@ -4,55 +4,55 @@ description: Explore the different mentoring styles.
 
 # What's my mentoring style?
 
-## 👩🏫 Educator
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
 
-* Teach and inform on concepts, ideas, and more. 
-* Help explain and clarify material. 
+## :woman\_teacher: Educator
+
+* Teach and inform on concepts, ideas, and more.&#x20;
+* Help explain and clarify material.&#x20;
 * Share knowledge and experiences.
 
-## 📣 Encourager
+## :mega: Encourager
 
-* Provide encouragement. 
-* Remind them of their progress, accomplishments 
+* Provide encouragement.&#x20;
+* Remind them of their progress, accomplishments&#x20;
 * Fuel their potential to keep doing great work.
 
-## 👾 Challenger
+## :space\_invader: Challenger
 
-* In the mentee's best interest, push back on limiting beliefs \(for the better\). 
-* Provide alternatives to also consider. 
+* In the mentee's best interest, push back on limiting beliefs (for the better).&#x20;
+* Provide alternatives to also consider.&#x20;
 * Ask questions that evoke reflection and action.
 
 {% hint style="info" %}
 **"Challenger" style requires extra care**. It requires extra thoughtfulness, care, empathy, and more. You have to be mindful of your delivery, tone, phrasing and how it is received. Further details coming soon. In the meantime, please reach out with any questions.
 {% endhint %}
 
-## 💡 Ideator
+## :bulb: Ideator
 
 * Collaborate with mentee to create big ideas together.
 * Brainstorm actionable steps to realize ideas.
 
-## 👂 Listener
+## :ear: Listener
 
-* Actively listen. 
-* Instead of providing answers and guidance, be there for mentee by listening to them. 
+* Actively listen.&#x20;
+* Instead of providing answers and guidance, be there for mentee by listening to them.&#x20;
 * Radiate solidarity and acknowledge that they are being heard.
 
-## 🔍 Finder
+## :mag: Finder
 
 * Help mentee find resources and people. You may not know the answer, but you're happy to help discover existing resources that can provide insights.
 
-## 🤝 Connector
+## :handshake: Connector
 
 * Share  resources such as articles, books, media, events, and programs.
 * Introduce people to one another
 
-## ⁉ Submit ideas, feedback, questions
+## :interrobang: Submit ideas, feedback, questions
 
-[External link form](https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp_url&entry.1298200943=What's+my+mentoring+style?)
+[External link form](https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5\_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp\_url\&entry.1298200943=What%27s+my+mentoring+style?)
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5\_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp\_url&entry.1298200943=What\'s+my+mentoring+style?" %}
-
-
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp_url&entry.1298200943=What's+my+mentoring+style?" %}
 
 
 

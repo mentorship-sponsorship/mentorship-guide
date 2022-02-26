@@ -1,12 +1,14 @@
 ---
-description: 'Together, we''re stronger. Thank you for contributing!'
+description: Together, we're stronger. Thank you for contributing!
 ---
 
 # Thank you + Contributors
 
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+
 ## Thanks
 
-**More coming soon ...** 
+**More coming soon ...**&#x20;
 
 ### GitBook
 
@@ -18,17 +20,17 @@ description: 'Together, we''re stronger. Thank you for contributing!'
 
 > For collecting best practices on "initiating, nurturing, and growing, and maintain groups of passionate contributors"
 
-{% embed url="https://www.theopensourceway.org/the\_open\_source\_way-guidebook-2.0.html\#\_creating\_a\_culture\_of\_mentorship" %}
+{% embed url="https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html#_creating_a_culture_of_mentorship" %}
 
 ### Opensource.guide
 
-> For the collection of resources on launching and growing the project
+> For the collection of resources on launching and growing the project&#x20;
 
 {% embed url="https://opensource.guide/" %}
 
 ### Kubernetes Open Source Community
 
-> For being a great example of an open source community \(and for the tech too!\)
+> For being a great example of an open source community (and for the tech too!)
 
 {% embed url="https://github.com/kubernetes/kubernetes" %}
 
@@ -50,11 +52,10 @@ description: 'Together, we''re stronger. Thank you for contributing!'
 
 {% embed url="https://mentorship.guide" %}
 
-## 🤗 Contributors
+## :hugging: Contributors
 
-Thank you to the following \(and those not listed below\) for contributing!
+Thank you to the following (and those not listed below) for contributing!
 
 {% hint style="info" %}
-We're still figuring out how we want to display contributors \(both from GitHub and through other channels\). If you have any ideas, let us know. Thanks!
+We're still figuring out how we want to display contributors (both from GitHub and through other channels). If you have any ideas, let us know. Thanks!
 {% endhint %}
-

@@ -1,14 +1,19 @@
 ---
-description: 'Videos, articles, and more on the topic of mentorship.'
+description: Videos, articles, and more on the topic of mentorship.
 ---
 
 # Additional resources
 
-## 🎥 Videos
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
 
-{% page-ref page="videos.md" %}
+## :movie\_camera: Videos
 
-## 📄 Articles
+{% content-ref url="videos.md" %}
+[videos.md](videos.md)
+{% endcontent-ref %}
 
-{% page-ref page="articles.md" %}
+## :page\_facing\_up: Articles
 
+{% content-ref url="articles.md" %}
+[articles.md](articles.md)
+{% endcontent-ref %}

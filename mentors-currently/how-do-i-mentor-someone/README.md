@@ -1,12 +1,16 @@
 # How do I mentor?
 
-## ✨ Different forms of mentorship
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
 
-{% page-ref page="forms-of-mentorship.md" %}
+## :sparkles: Different forms of mentorship
 
-## 🗣 What to mentor on
+{% content-ref url="forms-of-mentorship.md" %}
+[forms-of-mentorship.md](forms-of-mentorship.md)
+{% endcontent-ref %}
 
-{% page-ref page="what-to-mentor-on.md" %}
+## :speaking\_head: What to mentor on
 
-
+{% content-ref url="what-to-mentor-on.md" %}
+[what-to-mentor-on.md](what-to-mentor-on.md)
+{% endcontent-ref %}
 

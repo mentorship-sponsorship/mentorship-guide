@@ -6,7 +6,9 @@ description: >-
 
 # Why should I mentor?
 
-## 👤 It helps you
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+
+## :bust\_in\_silhouette: It helps you
 
 Paying it forward benefits you as well.
 
@@ -17,11 +19,11 @@ Paying it forward benefits you as well.
 * find knowledge gaps in your own thinking
 * learn something new
 
-Hearing other people's stories and perspectives, makes your own that much more richer, dynamic, and inclusive. 
+Hearing other people's stories and perspectives, makes your own that much more richer, dynamic, and inclusive.&#x20;
 
 There are valuable feelings and experiences that money cannot buy, but that only mentorship can provide.
 
-## 👥 It helps others
+## :busts\_in\_silhouette: It helps others
 
 The help you give has valuable and lasting benefits.
 
@@ -42,11 +44,11 @@ Here are a few different ways your work has an impact, such as helping someone i
   * reinforcing concepts
 * and more!
 
-> “To the world you may be one person, but to one person, you may be the world” \(Dr Seuss\)
+> “To the world you may be one person, but to one person, you may be the world” (Dr Seuss)
 
-## 💗 It helps the broader community
+## :heartpulse: It helps the broader community
 
-> "A candle loses nothing by lighting another candle" \(James Keller\)
+> "A candle loses nothing by lighting another candle" (James Keller)
 
 What we put in, we get out. Collectively, we can do our part in fostering a more inclusive, collaborative, and innovative community.
 
@@ -54,15 +56,15 @@ We are raising the waters so that we're all uplifted. It's a ripple effect. We h
 
 Before you know it, it's like a boomerang of help that returns to you.
 
-## ☑ Action steps
+## :ballot\_box\_with\_check: Action steps
 
 * [ ] Coming soon ...
 
-## ⁉ Submit ideas, feedback, questions
+## :interrobang: Submit ideas, feedback, questions
 
-[External form link](https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp_url&entry.1298200943=Why+should+I+mentor?)
+[External form link](https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5\_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp\_url\&entry.1298200943=Why+should+I+mentor?)
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5\_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp\_url&entry.1298200943=Why+should+I+mentor?" caption="Submit ideas, feedback, questions" %}
-
-
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdoUPsmzFuBzRdEePI6Pgr5_nw323QAftfTxsN6Ffe0rftUdA/viewform?usp=pp_url&entry.1298200943=Why+should+I+mentor?" %}
+Submit ideas, feedback, questions
+{% endembed %}
 

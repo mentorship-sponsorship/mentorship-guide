@@ -1,10 +1,14 @@
 # Advice for mentees
 
-##  🌛 Advice for mentees
+👋🏽 We're moving to a new site! Please visit https://mentorship.guide
 
-{% page-ref page="mentee-advice-from-other-mentees.md" %}
+## &#x20;:first\_quarter\_moon\_with\_face: Advice for mentees
 
-{% page-ref page="mentee-advice-from-mentors.md" %}
+{% content-ref url="mentee-advice-from-other-mentees.md" %}
+[mentee-advice-from-other-mentees.md](mentee-advice-from-other-mentees.md)
+{% endcontent-ref %}
 
-
+{% content-ref url="mentee-advice-from-mentors.md" %}
+[mentee-advice-from-mentors.md](mentee-advice-from-mentors.md)
+{% endcontent-ref %}
 
