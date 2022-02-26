@@ -4,7 +4,7 @@ description: We're moving to a new site! Please checkout https://mentorship.guid
 
 # Mentorship Guide
 
-Read the guide: [https://mentorship.guide](https://mentorship.gitbook.io/guide/)
+Read the guide: [https://mentorship.guide](https://mentorship.guide)
 
 Contribute: [https://github.com/mentorship-sponsorship/mentorship-guide-docs](https://github.com/mentorship-sponsorship/mentorship-guide-docs)
 
