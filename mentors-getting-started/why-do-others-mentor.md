@@ -4,7 +4,7 @@ description: Stories and reasons from the community on why we mentor.
 
 # Why do others mentor?
 
-👋🏽 We're moving to a new site! Please visit https://mentorship.guide
+👋🏽 We're moving to a new site! Please visit [https://mentorship.guide](https://mentorship.guide)
 
 ## :mega: Why we mentor
 
