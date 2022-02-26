@@ -1,10 +1,14 @@
+---
+description: We're moving to a new site! Please checkout https://mentorship.guide
+---
+
 # Mentorship Guide
 
-Read the guide: [https://mentorship.gitbook.io/guide/](https://mentorship.gitbook.io/guide/)
+Read the guide: [https://mentorship.guide](https://mentorship.gitbook.io/guide/)
 
-Contribute: [https://github.com/palante/mentorship-guide](https://github.com/palante/mentorship-guide)
+Contribute: [https://github.com/mentorship-sponsorship/mentorship-guide-docs](https://github.com/mentorship-sponsorship/mentorship-guide-docs)
 
-Join our online community: [https://spectrum.chat/mentorship](https://spectrum.chat/mentorship)
+
 
 [![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -12,31 +16,30 @@ Join our online community: [https://spectrum.chat/mentorship](https://spectrum.c
 
 Mentorship Guide is a resource focused on making mentorship accessible to all.
 
-## ✨ Mission
+## :sparkles: Mission
 
 To provide mentors and mentees with strategies, tools, resources, advice, and community support.
 
-## 💖 Why
+## :sparkling\_heart: Why
 
 The more mentorship we have, the more inclusive, collaborative, and innovative our communities become.
 
-## ✏ Contributing
+## :pencil2: Contributing
 
 This guide is developed by the community for the community. We'd be thankful and honored to have you contribute and make the Mentorship Guide better than it is today!
 
 Please see the [contributing guide](important/contributing.md) for how to do so.
 
-## 🧬 Code of Conduct
+## :dna: Code of Conduct
 
 Our community is open, welcoming, and inclusive.
 
 This project adheres to the Contributor Covenant Code of Conduct. Please read and follow our [Code of Conduct](important/code-of-conduct.md).
 
-## 👏 Thank you
+## :clap: Thank you
 
 Together, we're stronger. Thank you for your contributions!
 
-## 📄 License
+## :page\_facing\_up: License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
