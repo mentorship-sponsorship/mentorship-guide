@@ -4,6 +4,8 @@ description: We're moving to a new site! Please checkout https://mentorship.guid
 
 # Mentorship Guide
 
+🎉 We've moved to a new site and repository. Updated details below. Thank you!&#x20;
+
 Read the guide: [https://mentorship.guide](https://mentorship.guide)
 
 Contribute: [https://github.com/mentorship-sponsorship/mentorship-guide-docs](https://github.com/mentorship-sponsorship/mentorship-guide-docs)
